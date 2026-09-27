@@ -1,17 +1,23 @@
-# adv_basics
+HOW TO RUN QUIZ APP 
+### Step 1 — Download the Project
 
-A new Flutter project.
+Click the **Code** button on this GitHub repository and select **Download ZIP**.
 
-## Getting Started
+### Step 2 — Extract the ZIP File
 
-This project is a starting point for a Flutter application.
+Extract the downloaded ZIP file to any location on your computer.
 
-A few resources to get you started if this is your first Flutter project:
+### Step 3 — Open the Project
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Open the extracted project folder in **Visual Studio Code**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Choose the project you want to run:
+
+- `Roll & Dice`
+- `Quiz App`
+
+### Step 4 — Install Dependencies
+
+Open the VS Code terminal inside the selected project folder and run:
+
+in terminal type flutter pub get after that flutter run 
